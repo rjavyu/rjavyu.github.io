@@ -1,5 +1,7 @@
-.page {background-image: url(https://vk.com/photo-94925279_389907588);
-background-size: cover;
+.page {
+        padding:250px;
+        background-image: url(https://vk.com/photo-94925279_389907588);
+        background-size: cover;
 }
 h1{
     font-family: fantasy;
